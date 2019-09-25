@@ -1,0 +1,15 @@
+{
+    "name": "gerardbalaoro/bibliolite",
+    "description": "Lightweight but Powerfull Integrated Library System",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gerard Balaoro",
+            "email": "gmbalaoro@outlook.com"
+        }
+    ],
+    "require": {
+        "vanilla/garden-cli": "^2.2",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
